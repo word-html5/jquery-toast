@@ -1,6 +1,6 @@
 /*
-jQuery toast
- by rsky
+* jquery-toast by rsky
+* git repository https://github.com/ccrsky/jquery-toast/blob/master/README.md
 */
 ;(function($) {
     $.extend({
