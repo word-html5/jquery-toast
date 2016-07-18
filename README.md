@@ -13,6 +13,4 @@ A jQuery plugin to show Andriod like toast notification in web applications.
         cls:'mtoast'   // a hook of class for override
 	})
 
-3.Dependency
-
-   jQuery
+3.Dependency - jQuery
