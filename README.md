@@ -1,2 +1,18 @@
 # jquery-toast
-jquery toast 插件
+jquery toast plugin 
+
+A jQuery plugin to show Andriod like toast notification in web applications.
+
+1.Add jquery.toast.js  file to your project. Also include jQuery file as these is dependency of the plugin.
+
+2.usage 
+
+	$.toast("Hello World",{
+		timeout: 3000,
+        transitionTime: 800,
+        cls:'mtoast'
+	})
+
+3.Dependency
+
+   jQuery
